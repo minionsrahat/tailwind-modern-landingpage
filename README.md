@@ -22,7 +22,7 @@ This repository contains a Tailwind-Modern Landing Page project built with React
 To get started with the project, follow these steps:
 
    ```shell
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/minionsrahat/tailwind-modern-landingpage.git
    cd your-repository
    npm install
    npm start
