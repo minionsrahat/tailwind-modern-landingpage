@@ -1,5 +1,7 @@
 # Tailwind-Modern Landing Page
 
+Live Site Link: [https://doctorsportal12.netlify.app/](https://doctorsportal12.netlify.app/)
+
 This repository contains a Tailwind-Modern Landing Page project built with React, Tailwind CSS, and custom CSS. The landing page features:
 
 - Interactive Navigation Bar
